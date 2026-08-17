@@ -46,3 +46,9 @@ A modular, internal C++ framework and runtime modification suite for the Cube En
 ├── cheats.h        # Core logic: SilentAim hook, InstaKill detour, and Bunnyhop physics
 ├── init.h          # Window procedure hooking and ImGui context initialization
 └── dllmain.cpp     # Dynamic-Link Library entry point (DLL_PROCESS_ATTACH)
+
+## 🛠️ Tooling & Development Environment
+
+* **Microsoft Visual Studio 2022 17: Primary IDE and MSVC C++ toolchain configured for x86 builds.
+* **IDA Free:** Decompiler, static analysis, control-flow graphing, calling convention identification, and class layout reconstruction.
+* **Cheat Engine:** Dynamic memory analysis, runtime pointer scanning, and offset verification.
