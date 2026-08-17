@@ -46,6 +46,7 @@ A modular, internal C++ framework and runtime modification suite for the Cube En
 ├── cheats.h        # Core logic: SilentAim hook, InstaKill detour, and Bunnyhop physics
 ├── init.h          # Window procedure hooking and ImGui context initialization
 └── dllmain.cpp     # Dynamic-Link Library entry point (DLL_PROCESS_ATTACH)
+```
 
 ## 🛠️ Tooling & Development Environment
 
