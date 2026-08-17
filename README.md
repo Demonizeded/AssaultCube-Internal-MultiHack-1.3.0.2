@@ -3,7 +3,7 @@
 A modular, internal C++ framework and runtime modification suite for the Cube Engine (AssaultCube v1.3.0.2). This project demonstrates low-level systems programming concepts including custom x86 inline trampoline hooking, OpenGL graphics pipeline interception, matrix mathematics for 3D-to-2D screen projection, and direct engine memory reconstruction.
 ---
 > [!WARNING]  
-> ** This software is intended solely for offline analysis, single-player environments, and private educational research. **Do not use this tool in public multiplayer sessions or ruin the experience for other players.****
+> This software is intended solely for offline analysis, single-player environments, and private educational research. **Do not use this tool in public multiplayer sessions or ruin the experience for other players.**
 ---
 
 ## 🛠️ Technical Highlights
