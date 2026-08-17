@@ -50,6 +50,6 @@ A modular, internal C++ framework and runtime modification suite for the Cube En
 
 ## 🛠️ Tooling & Development Environment
 
-* **Microsoft Visual Studio 2022 17: Primary IDE and MSVC C++ toolchain configured for x86 builds.
+* **Microsoft Visual Studio 2022 17:** Primary IDE and MSVC C++ toolchain configured for x86 builds.
 * **IDA Free:** Decompiler, static analysis, control-flow graphing, calling convention identification, and class layout reconstruction.
 * **Cheat Engine:** Dynamic memory analysis, runtime pointer scanning, and offset verification.
